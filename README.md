@@ -45,9 +45,11 @@ I'm a passionate **DevSecOps** engineer and **AI** enthusiast, dedicated to buil
 
 ## 📫 Let's Connect
 
-- **LinkedIn:** [linkedin.com/in/hynguyen](#)
-- **Email:** your.email@example.com
-- **Twitter:** [@happynguyen](#)
+- **LinkedIn:** [linkedin.com/in/nguyenhappy92](https://www.linkedin.com/in/nguyenhappy92/)
+- **Email:** nguyenhappy92@gmail.com
+- **GitHub:** [github.com/nguyenhappy92](https://github.com/nguyenhappy92)
+- **Telegram:** [t.me/nguyenhappy92](https://t.me/nguyenhappy92)
+- **Medium/Blog:** [medium.com/@nguyenhappy92](https://medium.com/@nguyenhappy92)
 
 ---
 
